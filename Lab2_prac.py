@@ -37,7 +37,6 @@ def find_median(sortedlist):
     return median
 
 
-
 def calc_min_max_temperature(inputlist):
     print("find min max")
     inputlist.sort()
